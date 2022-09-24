@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirkaNicolle&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkaNicolle&layout=compact&theme=github_dark)](https://github.com/MirkaNicolle/github-readme-stats)
-
-<br>
